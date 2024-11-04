@@ -37,7 +37,7 @@ AdventJS es un calendario de Adviento que se realiza en el mes de diciembre y of
       </td>
       <td align="center">
         <a href="/src/challenge-01/index.js">
-          <img src="https://img.shields.io/badge/Code-181717?logo=github&logoColor=fff&style=flat-square" alt="GitHub Badge" />
+          <img src="https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&style=flat-square" alt="GitHub Badge" />
         </a>
       </td>
     </tr>
@@ -54,7 +54,7 @@ AdventJS es un calendario de Adviento que se realiza en el mes de diciembre y of
       </td>
       <td align="center">
         <a href="/src/challenge-02/index.js">
-          <img src="https://img.shields.io/badge/Code-181717?logo=github&logoColor=fff&style=flat-square" alt="GitHub Badge" />
+          <img src="https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&style=flat-square" alt="GitHub Badge" />
         </a>
       </td>
     </tr>
@@ -71,7 +71,7 @@ AdventJS es un calendario de Adviento que se realiza en el mes de diciembre y of
       </td>
       <td align="center">
         <a href="/src/challenge-03/index.js">
-          <img src="https://img.shields.io/badge/Code-181717?logo=github&logoColor=fff&style=flat-square" alt="GitHub Badge" />
+          <img src="https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&style=flat-square" alt="GitHub Badge" />
         </a>
       </td>
     </tr>
@@ -88,7 +88,7 @@ AdventJS es un calendario de Adviento que se realiza en el mes de diciembre y of
       </td>
       <td align="center">
         <a href="/src/challenge-04/index.js">
-          <img src="https://img.shields.io/badge/Code-181717?logo=github&logoColor=fff&style=flat-square" alt="GitHub Badge" />
+          <img src="https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&style=flat-square" alt="GitHub Badge" />
         </a>
       </td>
     </tr>
@@ -105,7 +105,7 @@ AdventJS es un calendario de Adviento que se realiza en el mes de diciembre y of
       </td>
       <td align="center">
         <a href="/src/challenge-05/index.js">
-          <img src="https://img.shields.io/badge/Code-181717?logo=github&logoColor=fff&style=flat-square" alt="GitHub Badge" />
+          <img src="https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&style=flat-square" alt="GitHub Badge" />
         </a>
       </td>
     </tr>
@@ -122,7 +122,7 @@ AdventJS es un calendario de Adviento que se realiza en el mes de diciembre y of
       </td>
       <td align="center">
         <a href="/src/challenge-06/index.js">
-          <img src="https://img.shields.io/badge/Code-181717?logo=github&logoColor=fff&style=flat-square" alt="GitHub Badge" />
+          <img src="https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&style=flat-square" alt="GitHub Badge" />
         </a>
       </td>
     </tr>
@@ -139,7 +139,7 @@ AdventJS es un calendario de Adviento que se realiza en el mes de diciembre y of
       </td>
       <td align="center">
         <a href="/src/challenge-07/index.js">
-          <img src="https://img.shields.io/badge/Code-181717?logo=github&logoColor=fff&style=flat-square" alt="GitHub Badge" />
+          <img src="https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&style=flat-square" alt="GitHub Badge" />
         </a>
       </td>
     </tr>
@@ -156,7 +156,7 @@ AdventJS es un calendario de Adviento que se realiza en el mes de diciembre y of
       </td>
       <td align="center">
         <a href="/src/challenge-08/index.js">
-          <img src="https://img.shields.io/badge/Code-181717?logo=github&logoColor=fff&style=flat-square" alt="GitHub Badge" />
+          <img src="https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&style=flat-square" alt="GitHub Badge" />
         </a>
       </td>
     </tr>
@@ -173,7 +173,7 @@ AdventJS es un calendario de Adviento que se realiza en el mes de diciembre y of
       </td>
       <td align="center">
         <a href="/src/challenge-09/index.js">
-          <img src="https://img.shields.io/badge/Code-181717?logo=github&logoColor=fff&style=flat-square" alt="GitHub Badge" />
+          <img src="https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&style=flat-square" alt="GitHub Badge" />
         </a>
       </td>
     </tr>
