@@ -146,7 +146,7 @@ AdventJS es un calendario de Adviento que se realiza en el mes de diciembre y of
     <tr>
       <td align="center">08</td>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/eb2eda47-b8fc-46bc-be3c-d5bbe78326aa" alt="challenge #08" width="30" height="30" style="object-fit: contain; object-position: center center;" />
+        <img src="https://github.com/user-attachments/assets/eb2eda47-b8fc-46bc-be3c-d5bbe78326aa" alt="reto #08" width="30" height="30" style="object-fit: contain; object-position: center center;" />
       </td>
       <td>
         <a href="/src/challenge-08/README-ES.md"><strong>🏬 Ordenando el almacén</strong></a>
@@ -163,7 +163,7 @@ AdventJS es un calendario de Adviento que se realiza en el mes de diciembre y of
     <tr>
       <td align="center">09</td>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/69cffd35-04fc-42fc-9262-47218f5bb305" alt="challenge #09" width="30" height="30" style="object-fit: contain; object-position: center center;" />
+        <img src="https://github.com/user-attachments/assets/69cffd35-04fc-42fc-9262-47218f5bb305" alt="reto #09" width="30" height="30" style="object-fit: contain; object-position: center center;" />
       </td>
       <td>
         <a href="/src/challenge-09/README-ES.md"><strong>🚦 Alterna las luces</strong></a>
@@ -173,6 +173,23 @@ AdventJS es un calendario de Adviento que se realiza en el mes de diciembre y of
       </td>
       <td align="center">
         <a href="/src/challenge-09/index.js">
+          <img src="https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&style=flat-square" alt="GitHub Badge" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">10</td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/193afb34-3d0a-4113-8edf-220556ed95b1" alt="reto #10" width="30" height="30" style="object-fit: cover; object-position: center center;" />
+      </td>
+      <td>
+        <a href="/src/challenge-10/README-ES.md"><strong>🎄 Crea tu propio árbol de navidad</strong></a>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Easy-77A626" alt="easy" />
+      </td>
+      <td align="center">
+        <a href="/src/challenge-10/index.js">
           <img src="https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&style=flat-square" alt="GitHub Badge" />
         </a>
       </td>
