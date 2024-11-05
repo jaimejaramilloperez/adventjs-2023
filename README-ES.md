@@ -186,10 +186,27 @@ AdventJS es un calendario de Adviento que se realiza en el mes de diciembre y of
         <a href="/src/challenge-10/README-ES.md"><strong>🎄 Crea tu propio árbol de navidad</strong></a>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/Easy-77A626" alt="easy" />
+        <img src="https://img.shields.io/badge/Fácil-77A626" alt="fácil" />
       </td>
       <td align="center">
         <a href="/src/challenge-10/index.js">
+          <img src="https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&style=flat-square" alt="GitHub Badge" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">11</td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/4e4a2c14-2ba0-4a13-a6e7-8f942ec3bab3" alt="reto #11" width="30" height="30" style="object-fit: contain; object-position: center center;" />
+      </td>
+      <td>
+        <a href="/src/challenge-11/README-ES.md"><strong>📖 Los elfos estudiosos</strong></a>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Medio-E3A011" alt="medio" />
+      </td>
+      <td align="center">
+        <a href="/src/challenge-11/index.js">
           <img src="https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&style=flat-square" alt="GitHub Badge" />
         </a>
       </td>
