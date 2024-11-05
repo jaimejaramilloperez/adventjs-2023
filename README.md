@@ -44,7 +44,7 @@ AdventJS is an Advent calendar that takes place in December and offers a collect
     <tr>
       <td align="center">02</td>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/572be52d-50ba-4800-a655-942782c2e566" alt="challenge #02" width="30" height="30" style="object-fit: cover; object-position: center center;" />
+        <img src="https://github.com/user-attachments/assets/572be52d-50ba-4800-a655-942782c2e566" alt="challenge #02" width="30" height="30" style="object-fit: contain; object-position: center center;" />
       </td>
       <td>
         <a href="/src/challenge-02/README.md"><strong>🏭 We start the factory</strong></a>
@@ -61,7 +61,7 @@ AdventJS is an Advent calendar that takes place in December and offers a collect
     <tr>
       <td align="center">03</td>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/8d06665e-9145-466a-b8b1-bea1b121b37a" alt="challenge #03" width="30" height="30" style="object-fit: cover; object-position: center center;" />
+        <img src="https://github.com/user-attachments/assets/8d06665e-9145-466a-b8b1-bea1b121b37a" alt="challenge #03" width="30" height="30" style="object-fit: contain; object-position: center center;" />
       </td>
       <td>
         <a href="/src/challenge-03/README.md"><strong>😏 The naughty elf</strong></a>
@@ -78,7 +78,7 @@ AdventJS is an Advent calendar that takes place in December and offers a collect
     <tr>
       <td align="center">04</td>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/8a869e3c-df6d-444a-8ddb-cf3dadfd0c1a" alt="challenge #04" width="30" height="30" style="object-fit: cover; object-position: center center;" />
+        <img src="https://github.com/user-attachments/assets/8a869e3c-df6d-444a-8ddb-cf3dadfd0c1a" alt="challenge #04" width="30" height="30" style="object-fit: contain; object-position: center center;" />
       </td>
       <td>
         <a href="/src/challenge-04/README.md"><strong>😵‍💫 Turn the parentheses around</strong></a>
@@ -129,7 +129,7 @@ AdventJS is an Advent calendar that takes place in December and offers a collect
     <tr>
       <td align="center">07</td>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/f1c7e172-8d09-4d88-9971-219503ee02f8" alt="challenge #07" width="30" height="30" style="object-fit: cover; object-position: center center;" />
+        <img src="https://github.com/user-attachments/assets/f1c7e172-8d09-4d88-9971-219503ee02f8" alt="challenge #07" width="30" height="30" style="object-fit: contain; object-position: center center;" />
       </td>
       <td>
         <a href="/src/challenge-07/README.md"><strong>📦 The 3D boxes</strong></a>
@@ -146,7 +146,7 @@ AdventJS is an Advent calendar that takes place in December and offers a collect
     <tr>
       <td align="center">08</td>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/eb2eda47-b8fc-46bc-be3c-d5bbe78326aa" alt="challenge #08" width="30" height="30" style="object-fit: cover; object-position: center center;" />
+        <img src="https://github.com/user-attachments/assets/eb2eda47-b8fc-46bc-be3c-d5bbe78326aa" alt="challenge #08" width="30" height="30" style="object-fit: contain; object-position: center center;" />
       </td>
       <td>
         <a href="/src/challenge-08/README.md"><strong>🏬 Sorting the warehouse</strong></a>
@@ -163,7 +163,7 @@ AdventJS is an Advent calendar that takes place in December and offers a collect
     <tr>
       <td align="center">09</td>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/69cffd35-04fc-42fc-9262-47218f5bb305" alt="challenge #09" width="30" height="30" style="object-fit: cover; object-position: center center;" />
+        <img src="https://github.com/user-attachments/assets/69cffd35-04fc-42fc-9262-47218f5bb305" alt="challenge #09" width="30" height="30" style="object-fit: contain; object-position: center center;" />
       </td>
       <td>
         <a href="/src/challenge-09/README.md"><strong>🚦 Switch the lights</strong></a>
@@ -180,7 +180,7 @@ AdventJS is an Advent calendar that takes place in December and offers a collect
     <tr>
       <td align="center">10</td>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/193afb34-3d0a-4113-8edf-220556ed95b1" alt="challenge #10" width="30" height="30" style="object-fit: cover; object-position: center center;" />
+        <img src="https://github.com/user-attachments/assets/193afb34-3d0a-4113-8edf-220556ed95b1" alt="challenge #10" width="30" height="30" style="object-fit: contain; object-position: center center;" />
       </td>
       <td>
         <a href="/src/challenge-10/README.md"><strong>🎄 Create your own Christmas tree</strong></a>
@@ -197,7 +197,7 @@ AdventJS is an Advent calendar that takes place in December and offers a collect
     <tr>
       <td align="center">11</td>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/4e4a2c14-2ba0-4a13-a6e7-8f942ec3bab3" alt="challenge #11" width="30" height="30" style="object-fit: cover; object-position: center center;" />
+        <img src="https://github.com/user-attachments/assets/4e4a2c14-2ba0-4a13-a6e7-8f942ec3bab3" alt="challenge #11" width="30" height="30" style="object-fit: contain; object-position: center center;" />
       </td>
       <td>
         <a href="/src/challenge-11/README.md"><strong>📖 The studious elves</strong></a>
@@ -214,7 +214,7 @@ AdventJS is an Advent calendar that takes place in December and offers a collect
     <tr>
       <td align="center">12</td>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/f7082001-7a33-43b9-ae8e-3e2be70988b3" alt="challenge #12" width="30" height="30" style="object-fit: cover; object-position: center center;" />
+        <img src="https://github.com/user-attachments/assets/f7082001-7a33-43b9-ae8e-3e2be70988b3" alt="challenge #12" width="30" height="30" style="object-fit: contain; object-position: center center;" />
       </td>
       <td>
         <a href="/src/challenge-12/README.md"><strong>📸 Is it a valid copy?</strong></a>
@@ -224,6 +224,23 @@ AdventJS is an Advent calendar that takes place in December and offers a collect
       </td>
       <td align="center">
         <a href="/src/challenge-12/index.js">
+          <img src="https://img.shields.io/badge/Code-181717?logo=github&logoColor=fff&style=flat-square" alt="GitHub Badge" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">13</td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/d9fe68e3-723b-4187-beb5-627f056300f6" alt="challenge #13" width="30" height="30" style="object-fit: contain; object-position: center center;" />
+      </td>
+      <td>
+        <a href="/src/challenge-13/README.md"><strong>⌚️ Calculating the time</strong></a>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Easy-77A626" alt="easy" />
+      </td>
+      <td align="center">
+        <a href="/src/challenge-13/index.js">
           <img src="https://img.shields.io/badge/Code-181717?logo=github&logoColor=fff&style=flat-square" alt="GitHub Badge" />
         </a>
       </td>
