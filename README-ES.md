@@ -217,7 +217,7 @@ AdventJS es un calendario de Adviento que se realiza en el mes de diciembre y of
         <img src="https://github.com/user-attachments/assets/f7082001-7a33-43b9-ae8e-3e2be70988b3" alt="reto #12" width="30" height="30" />
       </td>
       <td>
-        <a href="/src/challenge-12/README-ES.md"><strong>📖 Los elfos estudiosos</strong></a>
+        <a href="/src/challenge-12/README-ES.md"><strong>📸 ¿Es una copia válida?</strong></a>
       </td>
       <td align="center">
         <img src="https://img.shields.io/badge/Medio-E3A011" alt="medio" />
@@ -241,6 +241,23 @@ AdventJS es un calendario de Adviento que se realiza en el mes de diciembre y of
       </td>
       <td align="center">
         <a href="/src/challenge-13/index.js">
+          <img src="https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&style=flat-square" alt="GitHub Badge" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">14</td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/f7082001-7a33-43b9-ae8e-3e2be70988b3" alt="reto #14" width="30" height="30" />
+      </td>
+      <td>
+        <a href="/src/challenge-14/README-ES.md"><strong>🚨 Evita la alarma</strong></a>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Medio-E3A011" alt="medio" />
+      </td>
+      <td align="center">
+        <a href="/src/challenge-14/index.js">
           <img src="https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&style=flat-square" alt="GitHub Badge" />
         </a>
       </td>
