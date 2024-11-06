@@ -248,7 +248,7 @@ AdventJS es un calendario de Adviento que se realiza en el mes de diciembre y of
     <tr>
       <td align="center">14</td>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/f7082001-7a33-43b9-ae8e-3e2be70988b3" alt="reto #14" width="30" height="30" />
+        <img src="https://github.com/user-attachments/assets/eac257ab-5e4b-4682-9c2e-0d68a7ab4b8c" alt="reto #14" width="30" height="30" />
       </td>
       <td>
         <a href="/src/challenge-14/README-ES.md"><strong>🚨 Evita la alarma</strong></a>
@@ -258,6 +258,23 @@ AdventJS es un calendario de Adviento que se realiza en el mes de diciembre y of
       </td>
       <td align="center">
         <a href="/src/challenge-14/index.js">
+          <img src="https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&style=flat-square" alt="GitHub Badge" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">15</td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/83f1077f-b8af-447a-9cfe-b3d51d8ebc54" alt="reto #15" width="30" height="30" />
+      </td>
+      <td>
+        <a href="/src/challenge-15/README-ES.md"><strong>🤖 Robot autónomo</strong></a>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Medio-E3A011" alt="medio" />
+      </td>
+      <td align="center">
+        <a href="/src/challenge-15/index.js">
           <img src="https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&style=flat-square" alt="GitHub Badge" />
         </a>
       </td>
