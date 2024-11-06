@@ -27,7 +27,7 @@ AdventJS es un calendario de Adviento que se realiza en el mes de diciembre y of
     <tr>
       <td align="center">01</td>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/46b569c5-1adc-466e-bba4-dc6e1052b1ca" alt="reto #01" width="30" height="30" style="object-fit: contain; object-position: center center;" />
+        <img src="https://github.com/user-attachments/assets/46b569c5-1adc-466e-bba4-dc6e1052b1ca" alt="reto #01" width="30" height="30" />
       </td>
       <td>
         <a href="/src/challenge-01/README-ES.md"><strong>🎁 ¡Primer regalo repetido!</strong></a>
@@ -44,7 +44,7 @@ AdventJS es un calendario de Adviento que se realiza en el mes de diciembre y of
     <tr>
       <td align="center">02</td>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/572be52d-50ba-4800-a655-942782c2e566" alt="reto #02" width="30" height="30" style="object-fit: contain; object-position: center center;" />
+        <img src="https://github.com/user-attachments/assets/572be52d-50ba-4800-a655-942782c2e566" alt="reto #02" width="30" height="30" />
       </td>
       <td>
         <a href="/src/challenge-02/README-ES.md"><strong>🏭 Ponemos en marcha la fábrica</strong></a>
@@ -61,7 +61,7 @@ AdventJS es un calendario de Adviento que se realiza en el mes de diciembre y of
     <tr>
       <td align="center">03</td>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/8d06665e-9145-466a-b8b1-bea1b121b37a" alt="reto #03" width="30" height="30" style="object-fit: contain; object-position: center center;" />
+        <img src="https://github.com/user-attachments/assets/8d06665e-9145-466a-b8b1-bea1b121b37a" alt="reto #03" width="30" height="30" />
       </td>
       <td>
         <a href="/src/challenge-03/README-ES.md"><strong>😏 El elfo travieso</strong></a>
@@ -78,7 +78,7 @@ AdventJS es un calendario de Adviento que se realiza en el mes de diciembre y of
     <tr>
       <td align="center">04</td>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/8a869e3c-df6d-444a-8ddb-cf3dadfd0c1a" alt="reto #04" width="30" height="30" style="object-fit: contain; object-position: center center;" />
+        <img src="https://github.com/user-attachments/assets/8a869e3c-df6d-444a-8ddb-cf3dadfd0c1a" alt="reto #04" width="30" height="30" />
       </td>
       <td>
         <a href="/src/challenge-04/README-ES.md"><strong>😵‍💫 Dale la vuelta a los paréntesis</strong></a>
@@ -95,7 +95,7 @@ AdventJS es un calendario de Adviento que se realiza en el mes de diciembre y of
     <tr>
       <td align="center">05</td>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/dd4c6190-1057-4537-a904-d449403890f4" alt="reto #05" width="30" height="30" style="object-fit: contain; object-position: center center;" />
+        <img src="https://github.com/user-attachments/assets/dd4c6190-1057-4537-a904-d449403890f4" alt="reto #05" width="30" height="20" />
       </td>
       <td>
         <a href="/src/challenge-05/README-ES.md"><strong>🛷 El CyberTruck de Santa</strong></a>
@@ -112,7 +112,7 @@ AdventJS es un calendario de Adviento que se realiza en el mes de diciembre y of
     <tr>
       <td align="center">06</td>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/2af3242c-8a0a-45dc-8a9c-39a7f71f412d" alt="reto #06" width="30" height="30" style="object-fit: contain; object-position: center center;" />
+        <img src="https://github.com/user-attachments/assets/2af3242c-8a0a-45dc-8a9c-39a7f71f412d" alt="reto #06" width="12" height="30" />
       </td>
       <td>
         <a href="/src/challenge-06/README-ES.md"><strong>🦌 Los renos a prueba</strong></a>
@@ -129,7 +129,7 @@ AdventJS es un calendario de Adviento que se realiza en el mes de diciembre y of
     <tr>
       <td align="center">07</td>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/f1c7e172-8d09-4d88-9971-219503ee02f8" alt="reto #07" width="30" height="30" style="object-fit: contain; object-position: center center;" />
+        <img src="https://github.com/user-attachments/assets/f1c7e172-8d09-4d88-9971-219503ee02f8" alt="reto #07" width="30" height="30" />
       </td>
       <td>
         <a href="/src/challenge-07/README-ES.md"><strong>📦 Las cajas en 3D</strong></a>
@@ -146,7 +146,7 @@ AdventJS es un calendario de Adviento que se realiza en el mes de diciembre y of
     <tr>
       <td align="center">08</td>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/eb2eda47-b8fc-46bc-be3c-d5bbe78326aa" alt="reto #08" width="30" height="30" style="object-fit: contain; object-position: center center;" />
+        <img src="https://github.com/user-attachments/assets/eb2eda47-b8fc-46bc-be3c-d5bbe78326aa" alt="reto #08" width="30" height="30" />
       </td>
       <td>
         <a href="/src/challenge-08/README-ES.md"><strong>🏬 Ordenando el almacén</strong></a>
@@ -163,7 +163,7 @@ AdventJS es un calendario de Adviento que se realiza en el mes de diciembre y of
     <tr>
       <td align="center">09</td>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/69cffd35-04fc-42fc-9262-47218f5bb305" alt="reto #09" width="30" height="30" style="object-fit: contain; object-position: center center;" />
+        <img src="https://github.com/user-attachments/assets/69cffd35-04fc-42fc-9262-47218f5bb305" alt="reto #09" width="30" height="30" />
       </td>
       <td>
         <a href="/src/challenge-09/README-ES.md"><strong>🚦 Alterna las luces</strong></a>
@@ -197,7 +197,7 @@ AdventJS es un calendario de Adviento que se realiza en el mes de diciembre y of
     <tr>
       <td align="center">11</td>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/4e4a2c14-2ba0-4a13-a6e7-8f942ec3bab3" alt="reto #11" width="30" height="30" style="object-fit: contain; object-position: center center;" />
+        <img src="https://github.com/user-attachments/assets/4e4a2c14-2ba0-4a13-a6e7-8f942ec3bab3" alt="reto #11" width="30" height="30" />
       </td>
       <td>
         <a href="/src/challenge-11/README-ES.md"><strong>📖 Los elfos estudiosos</strong></a>
@@ -214,7 +214,7 @@ AdventJS es un calendario de Adviento que se realiza en el mes de diciembre y of
     <tr>
       <td align="center">12</td>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/f7082001-7a33-43b9-ae8e-3e2be70988b3" alt="reto #12" width="30" height="30" style="object-fit: contain; object-position: center center;" />
+        <img src="https://github.com/user-attachments/assets/f7082001-7a33-43b9-ae8e-3e2be70988b3" alt="reto #12" width="30" height="30" />
       </td>
       <td>
         <a href="/src/challenge-12/README-ES.md"><strong>📖 Los elfos estudiosos</strong></a>
@@ -231,7 +231,7 @@ AdventJS es un calendario de Adviento que se realiza en el mes de diciembre y of
     <tr>
       <td align="center">13</td>
       <td align="center">
-        <img src="https://github.com/user-attachments/assets/d9fe68e3-723b-4187-beb5-627f056300f6" alt="reto #13" width="30" height="30" style="object-fit: contain; object-position: center center;" />
+        <img src="https://github.com/user-attachments/assets/d9fe68e3-723b-4187-beb5-627f056300f6" alt="reto #13" width="12" height="30" />
       </td>
       <td>
         <a href="/src/challenge-13/README-ES.md"><strong>⌚️ Calculando el tiempo</strong></a>
