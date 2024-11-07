@@ -330,6 +330,23 @@ AdventJS es un calendario de Adviento que se realiza en el mes de diciembre y of
         </a>
       </td>
     </tr>
+    <tr>
+      <td align="center">19</td>
+      <td align="center">
+        <img src="https://github.com/user-attachments/assets/dd5273b6-f55f-4335-a09f-cf6340db81ba" alt="reto #19" width="30" height="30" />
+      </td>
+      <td>
+        <a href="/src/challenge-19/README-ES.md"><strong>💣 Enfrenta el sabotaje</strong></a>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Medio-E3A011" alt="medio" />
+      </td>
+      <td align="center">
+        <a href="/src/challenge-19/index.js">
+          <img src="https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&style=flat-square" alt="GitHub Badge" />
+        </a>
+      </td>
+    </tr>
   </tbody>
 </table>
 
