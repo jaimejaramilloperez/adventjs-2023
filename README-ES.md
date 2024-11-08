@@ -21,6 +21,7 @@ AdventJS es un calendario de Adviento que se realiza en el mes de diciembre y of
       <th align="center">Reto</th>
       <th align="center">Nivel de dificultad</th>
       <th align="center">Solución</th>
+      <th align="center">Pruebas unitarias</th>
     </td>
   </thead>
   <tbody>
@@ -37,7 +38,12 @@ AdventJS es un calendario de Adviento que se realiza en el mes de diciembre y of
       </td>
       <td align="center">
         <a href="/src/challenge-01/index.js">
-          <img src="https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&style=flat-square" alt="GitHub Badge" />
+          <img src="https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&color=000" alt="gitHub code badge" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="/src/challenge-01/index.test.js">
+          <img src="https://img.shields.io/badge/Pruebas-181717?logo=nodedotjs&logoColor=fff&color=000" alt="nodejs test badge" />
         </a>
       </td>
     </tr>
@@ -54,7 +60,12 @@ AdventJS es un calendario de Adviento que se realiza en el mes de diciembre y of
       </td>
       <td align="center">
         <a href="/src/challenge-02/index.js">
-          <img src="https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&style=flat-square" alt="GitHub Badge" />
+          <img src="https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&color=000" alt="gitHub code badge" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="/src/challenge-02/index.test.js">
+          <img src="https://img.shields.io/badge/Pruebas-181717?logo=nodedotjs&logoColor=fff&color=000" alt="nodejs test badge" />
         </a>
       </td>
     </tr>
@@ -71,7 +82,12 @@ AdventJS es un calendario de Adviento que se realiza en el mes de diciembre y of
       </td>
       <td align="center">
         <a href="/src/challenge-03/index.js">
-          <img src="https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&style=flat-square" alt="GitHub Badge" />
+          <img src="https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&color=000" alt="gitHub code badge" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="/src/challenge-03/index.test.js">
+          <img src="https://img.shields.io/badge/Pruebas-181717?logo=nodedotjs&logoColor=fff&color=000" alt="nodejs test badge" />
         </a>
       </td>
     </tr>
@@ -88,7 +104,12 @@ AdventJS es un calendario de Adviento que se realiza en el mes de diciembre y of
       </td>
       <td align="center">
         <a href="/src/challenge-04/index.js">
-          <img src="https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&style=flat-square" alt="GitHub Badge" />
+          <img src="https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&color=000" alt="gitHub code badge" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="/src/challenge-04/index.test.js">
+          <img src="https://img.shields.io/badge/Pruebas-181717?logo=nodedotjs&logoColor=fff&color=000" alt="nodejs test badge" />
         </a>
       </td>
     </tr>
@@ -105,7 +126,12 @@ AdventJS es un calendario de Adviento que se realiza en el mes de diciembre y of
       </td>
       <td align="center">
         <a href="/src/challenge-05/index.js">
-          <img src="https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&style=flat-square" alt="GitHub Badge" />
+          <img src="https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&color=000" alt="gitHub code badge" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="/src/challenge-05/index.test.js">
+          <img src="https://img.shields.io/badge/Pruebas-181717?logo=nodedotjs&logoColor=fff&color=000" alt="nodejs test badge" />
         </a>
       </td>
     </tr>
@@ -122,7 +148,12 @@ AdventJS es un calendario de Adviento que se realiza en el mes de diciembre y of
       </td>
       <td align="center">
         <a href="/src/challenge-06/index.js">
-          <img src="https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&style=flat-square" alt="GitHub Badge" />
+          <img src="https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&color=000" alt="gitHub code badge" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="/src/challenge-06/index.test.js">
+          <img src="https://img.shields.io/badge/Pruebas-181717?logo=nodedotjs&logoColor=fff&color=000" alt="nodejs test badge" />
         </a>
       </td>
     </tr>
@@ -139,7 +170,12 @@ AdventJS es un calendario de Adviento que se realiza en el mes de diciembre y of
       </td>
       <td align="center">
         <a href="/src/challenge-07/index.js">
-          <img src="https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&style=flat-square" alt="GitHub Badge" />
+          <img src="https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&color=000" alt="gitHub code badge" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="/src/challenge-07/index.test.js">
+          <img src="https://img.shields.io/badge/Pruebas-181717?logo=nodedotjs&logoColor=fff&color=000" alt="nodejs test badge" />
         </a>
       </td>
     </tr>
@@ -156,7 +192,12 @@ AdventJS es un calendario de Adviento que se realiza en el mes de diciembre y of
       </td>
       <td align="center">
         <a href="/src/challenge-08/index.js">
-          <img src="https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&style=flat-square" alt="GitHub Badge" />
+          <img src="https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&color=000" alt="gitHub code badge" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="/src/challenge-08/index.test.js">
+          <img src="https://img.shields.io/badge/Pruebas-181717?logo=nodedotjs&logoColor=fff&color=000" alt="nodejs test badge" />
         </a>
       </td>
     </tr>
@@ -173,7 +214,12 @@ AdventJS es un calendario de Adviento que se realiza en el mes de diciembre y of
       </td>
       <td align="center">
         <a href="/src/challenge-09/index.js">
-          <img src="https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&style=flat-square" alt="GitHub Badge" />
+          <img src="https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&color=000" alt="gitHub code badge" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="/src/challenge-09/index.test.js">
+          <img src="https://img.shields.io/badge/Pruebas-181717?logo=nodedotjs&logoColor=fff&color=000" alt="nodejs test badge" />
         </a>
       </td>
     </tr>
@@ -190,7 +236,12 @@ AdventJS es un calendario de Adviento que se realiza en el mes de diciembre y of
       </td>
       <td align="center">
         <a href="/src/challenge-10/index.js">
-          <img src="https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&style=flat-square" alt="GitHub Badge" />
+          <img src="https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&color=000" alt="gitHub code badge" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="/src/challenge-10/index.test.js">
+          <img src="https://img.shields.io/badge/Pruebas-181717?logo=nodedotjs&logoColor=fff&color=000" alt="nodejs test badge" />
         </a>
       </td>
     </tr>
@@ -207,7 +258,12 @@ AdventJS es un calendario de Adviento que se realiza en el mes de diciembre y of
       </td>
       <td align="center">
         <a href="/src/challenge-11/index.js">
-          <img src="https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&style=flat-square" alt="GitHub Badge" />
+          <img src="https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&color=000" alt="gitHub code badge" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="/src/challenge-11/index.test.js">
+          <img src="https://img.shields.io/badge/Pruebas-181717?logo=nodedotjs&logoColor=fff&color=000" alt="nodejs test badge" />
         </a>
       </td>
     </tr>
@@ -224,7 +280,12 @@ AdventJS es un calendario de Adviento que se realiza en el mes de diciembre y of
       </td>
       <td align="center">
         <a href="/src/challenge-12/index.js">
-          <img src="https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&style=flat-square" alt="GitHub Badge" />
+          <img src="https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&color=000" alt="gitHub code badge" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="/src/challenge-12/index.test.js">
+          <img src="https://img.shields.io/badge/Pruebas-181717?logo=nodedotjs&logoColor=fff&color=000" alt="nodejs test badge" />
         </a>
       </td>
     </tr>
@@ -241,7 +302,12 @@ AdventJS es un calendario de Adviento que se realiza en el mes de diciembre y of
       </td>
       <td align="center">
         <a href="/src/challenge-13/index.js">
-          <img src="https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&style=flat-square" alt="GitHub Badge" />
+          <img src="https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&color=000" alt="gitHub code badge" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="/src/challenge-13/index.test.js">
+          <img src="https://img.shields.io/badge/Pruebas-181717?logo=nodedotjs&logoColor=fff&color=000" alt="nodejs test badge" />
         </a>
       </td>
     </tr>
@@ -258,7 +324,12 @@ AdventJS es un calendario de Adviento que se realiza en el mes de diciembre y of
       </td>
       <td align="center">
         <a href="/src/challenge-14/index.js">
-          <img src="https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&style=flat-square" alt="GitHub Badge" />
+          <img src="https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&color=000" alt="gitHub code badge" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="/src/challenge-14/index.test.js">
+          <img src="https://img.shields.io/badge/Pruebas-181717?logo=nodedotjs&logoColor=fff&color=000" alt="nodejs test badge" />
         </a>
       </td>
     </tr>
@@ -275,7 +346,12 @@ AdventJS es un calendario de Adviento que se realiza en el mes de diciembre y of
       </td>
       <td align="center">
         <a href="/src/challenge-15/index.js">
-          <img src="https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&style=flat-square" alt="GitHub Badge" />
+          <img src="https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&color=000" alt="gitHub code badge" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="/src/challenge-15/index.test.js">
+          <img src="https://img.shields.io/badge/Pruebas-181717?logo=nodedotjs&logoColor=fff&color=000" alt="nodejs test badge" />
         </a>
       </td>
     </tr>
@@ -292,7 +368,12 @@ AdventJS es un calendario de Adviento que se realiza en el mes de diciembre y of
       </td>
       <td align="center">
         <a href="/src/challenge-16/index.js">
-          <img src="https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&style=flat-square" alt="GitHub Badge" />
+          <img src="https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&color=000" alt="gitHub code badge" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="/src/challenge-16/index.test.js">
+          <img src="https://img.shields.io/badge/Pruebas-181717?logo=nodedotjs&logoColor=fff&color=000" alt="nodejs test badge" />
         </a>
       </td>
     </tr>
@@ -309,7 +390,12 @@ AdventJS es un calendario de Adviento que se realiza en el mes de diciembre y of
       </td>
       <td align="center">
         <a href="/src/challenge-17/index.js">
-          <img src="https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&style=flat-square" alt="GitHub Badge" />
+          <img src="https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&color=000" alt="gitHub code badge" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="/src/challenge-17/index.test.js">
+          <img src="https://img.shields.io/badge/Pruebas-181717?logo=nodedotjs&logoColor=fff&color=000" alt="nodejs test badge" />
         </a>
       </td>
     </tr>
@@ -326,7 +412,12 @@ AdventJS es un calendario de Adviento que se realiza en el mes de diciembre y of
       </td>
       <td align="center">
         <a href="/src/challenge-18/index.js">
-          <img src="https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&style=flat-square" alt="GitHub Badge" />
+          <img src="https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&color=000" alt="gitHub code badge" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="/src/challenge-18/index.test.js">
+          <img src="https://img.shields.io/badge/Pruebas-181717?logo=nodedotjs&logoColor=fff&color=000" alt="nodejs test badge" />
         </a>
       </td>
     </tr>
@@ -343,7 +434,12 @@ AdventJS es un calendario de Adviento que se realiza en el mes de diciembre y of
       </td>
       <td align="center">
         <a href="/src/challenge-19/index.js">
-          <img src="https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&style=flat-square" alt="GitHub Badge" />
+          <img src="https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&color=000" alt="gitHub code badge" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="/src/challenge-19/index.test.js">
+          <img src="https://img.shields.io/badge/Pruebas-181717?logo=nodedotjs&logoColor=fff&color=000" alt="nodejs test badge" />
         </a>
       </td>
     </tr>
@@ -360,7 +456,12 @@ AdventJS es un calendario de Adviento que se realiza en el mes de diciembre y of
       </td>
       <td align="center">
         <a href="/src/challenge-20/index.js">
-          <img src="https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&style=flat-square" alt="GitHub Badge" />
+          <img src="https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&color=000" alt="gitHub code badge" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="/src/challenge-20/index.test.js">
+          <img src="https://img.shields.io/badge/Pruebas-181717?logo=nodedotjs&logoColor=fff&color=000" alt="nodejs test badge" />
         </a>
       </td>
     </tr>
@@ -377,7 +478,12 @@ AdventJS es un calendario de Adviento que se realiza en el mes de diciembre y of
       </td>
       <td align="center">
         <a href="/src/challenge-21/index.js">
-          <img src="https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&style=flat-square" alt="GitHub Badge" />
+          <img src="https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&color=000" alt="gitHub code badge" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="/src/challenge-21/index.test.js">
+          <img src="https://img.shields.io/badge/Pruebas-181717?logo=nodedotjs&logoColor=fff&color=000" alt="nodejs test badge" />
         </a>
       </td>
     </tr>
@@ -394,7 +500,12 @@ AdventJS es un calendario de Adviento que se realiza en el mes de diciembre y of
       </td>
       <td align="center">
         <a href="/src/challenge-22/index.js">
-          <img src="https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&style=flat-square" alt="GitHub Badge" />
+          <img src="https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&color=000" alt="gitHub code badge" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="/src/challenge-22/index.test.js">
+          <img src="https://img.shields.io/badge/Pruebas-181717?logo=nodedotjs&logoColor=fff&color=000" alt="nodejs test badge" />
         </a>
       </td>
     </tr>
@@ -411,7 +522,12 @@ AdventJS es un calendario de Adviento que se realiza en el mes de diciembre y of
       </td>
       <td align="center">
         <a href="/src/challenge-23/index.js">
-          <img src="https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&style=flat-square" alt="GitHub Badge" />
+          <img src="https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&color=000" alt="gitHub code badge" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="/src/challenge-23/index.test.js">
+          <img src="https://img.shields.io/badge/Pruebas-181717?logo=nodedotjs&logoColor=fff&color=000" alt="nodejs test badge" />
         </a>
       </td>
     </tr>
@@ -428,7 +544,12 @@ AdventJS es un calendario de Adviento que se realiza en el mes de diciembre y of
       </td>
       <td align="center">
         <a href="/src/challenge-24/index.js">
-          <img src="https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&style=flat-square" alt="GitHub Badge" />
+          <img src="https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&color=000" alt="gitHub code badge" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="/src/challenge-24/index.test.js">
+          <img src="https://img.shields.io/badge/Pruebas-181717?logo=nodedotjs&logoColor=fff&color=000" alt="nodejs test badge" />
         </a>
       </td>
     </tr>
@@ -445,7 +566,12 @@ AdventJS es un calendario de Adviento que se realiza en el mes de diciembre y of
       </td>
       <td align="center">
         <a href="/src/challenge-25/index.js">
-          <img src="https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&style=flat-square" alt="GitHub Badge" />
+          <img src="https://img.shields.io/badge/Código-181717?logo=github&logoColor=fff&color=000" alt="gitHub code badge" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="/src/challenge-25/index.test.js">
+          <img src="https://img.shields.io/badge/Pruebas-181717?logo=nodedotjs&logoColor=fff&color=000" alt="nodejs test badge" />
         </a>
       </td>
     </tr>
@@ -500,8 +626,7 @@ Por ejemplo:
 
 ```bash
 npm run challenge1 # Ejecuta las pruebas del reto 1
-npm run challenge2 # Ejecuta las pruebas del reto 2
-npm run challenge3 # Ejecuta las pruebas del reto 3
-npm run challenge4 # Ejecuta las pruebas del reto 4
 npm run challenge5 # Ejecuta las pruebas del reto 5
+npm run challenge12 # Ejecuta las pruebas del reto 12
+npm run challenge25 # Ejecuta las pruebas del reto 25
 ```
