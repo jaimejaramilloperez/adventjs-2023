@@ -1,12 +1,12 @@
 <div align="center">
-  <a href="https://adventjs.dev/">
-    <img src="https://github.com/user-attachments/assets/1e84e9a8-1fae-4e1a-a085-f33c2060e7ea" alt="AdventJS" /> 
+  <a href="https://2023.adventjs.dev/">
+    <img src="https://github.com/user-attachments/assets/1e84e9a8-1fae-4e1a-a085-f33c2060e7ea" alt="AdventJS" />
   </a>
 </div>
 
 # 🎅🏻 AdventJS 2023 | Solutions
 
-My solutions to [AdventJS](https://adventjs.dev/) 2023 challenges created by [@midudev](https://github.com/midudev/) 👾
+My solutions to [AdventJS](https://2023.adventjs.dev/) 2023 challenges created by [@midudev](https://github.com/midudev/) 👾
 
 ## ✨ What is AdventJS?
 
